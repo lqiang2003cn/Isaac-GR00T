@@ -86,7 +86,7 @@ pip install --upgrade setuptools
 pip install -e .
 pip install --no-build-isolation flash-attn==2.7.1.post4 
 ```
-need proxy for the line:pip install --no-build-isolation flash-attn==2.7.1.post4 
+need network proxy for the line:pip install --no-build-isolation flash-attn==2.7.1.post4 
 
 
 ## Getting started with this repo
